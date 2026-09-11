@@ -1,0 +1,7 @@
+ligne 1 paris
+ligne 2 rome
+ligne 3 denver
+ligne 4 salt lake city
+ligne 5 madrid
+ligne 6 lisbonne
+ligne 7 tokyo
