@@ -2,6 +2,8 @@ ligne 1 france
 ligne 2 italie
 ligne 3 colorado
 ligne 4 utah
-ligne 5 espagne
-ligne 6 portugal
+ligne 5 pourrie mad    modif LORA
+ligne 6 pourrie port   modif LORA
 ligne 7 japon
+ligne 8 pomme  ajout LORA
+ligne 9 cerise ajout LORA
